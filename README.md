@@ -1,7 +1,8 @@
 # My-Work
 
 ## Prepare lessons
-- 七年级信息课
+
+- [七年级信息课](Prepare lessons/七年级信息课)
 - 八年级信息课
 - 九年级信息课
 - 选修课
